@@ -4,7 +4,7 @@
 
 # ImpossibleMode
 
-##Features:
+#Features:
 
 - Auto downloads Astronomia
 - Auto downloads NoteblockAPI 1.5.0
@@ -30,9 +30,10 @@
 
 # Lehetetlen Mód
 
-##Újdonságok:
+#Újdonságok:
 
-- Automatikusan letölti 
+- Automatikusan letöltés: Astronomia
+- Automatikusan letölti a NoteblockAPI -t.
 - 2x gyorsabb levegő vesztés
 - Érceket duplán kell kiütni
 - Éhes leszel alvás után
