@@ -1,10 +1,13 @@
 
-[ImpossibleMode 🇬🇧](#ImpossibleMode)
-[Lehetetlen Mód 🇭🇺](#Lehetetlen-Mód)
+[ImpossibleMode](#ImpossibleMode) <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/252/flag-united-kingdom_1f1ec-1f1e7.png" width="2%" />
 
-# ImpossibleMode
+[Lehetetlen Mód 🇭🇺](#Lehetetlen-Mód) <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/252/flag-hungary_1f1ed-1f1fa.png" width="2%" />
 
-#Features:
+
+
+# ImpossibleMode <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/252/flag-united-kingdom_1f1ec-1f1e7.png" width="5%" />
+
+## Features:
 
 - Auto downloads Astronomia
 - Auto downloads NoteblockAPI 1.5.0
@@ -28,9 +31,9 @@
 - Lightnings are exploding
 - Foods hill you half as much
 
-# Lehetetlen Mód
+# Lehetetlen Mód <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/252/flag-hungary_1f1ed-1f1fa.png" width="5%" />
 
-#Újdonságok:
+## Újdonságok:
 
 - Automatikusan letöltés: Astronomia
 - Automatikusan letölti a NoteblockAPI -t.
