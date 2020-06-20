@@ -27,7 +27,7 @@ public class Main extends JavaPlugin {
         downloadFile("https://www41.zippyshare.com/d/rGHzTSAj/41813/Astronomia.nbs", "Astronomia.nbs");
         if (downloadFile("http://ci.haprosgames.com/job/NoteBlockAPI/8/artifact/target/NoteBlockAPI-1.5.0.jar", "../NoteBlockAPI-1.5.0.jar")) {
             try {
-                pm.loadPlugin(new File(getDataFolder() + "../NoteBlockAPI-1.5.0.jar"));
+                pm.loadPlugin(new File(getDataFolder() + "/../NoteBlockAPI-1.5.0.jar"));
             } catch (InvalidPluginException | InvalidDescriptionException e) {
                 e.printStackTrace();
             }
