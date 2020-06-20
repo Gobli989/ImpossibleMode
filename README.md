@@ -1,7 +1,7 @@
 
 [ImpossibleMode](#ImpossibleMode) <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/252/flag-united-kingdom_1f1ec-1f1e7.png" width="2%" />
 
-[Lehetetlen Mód 🇭🇺](#Lehetetlen-Mód) <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/252/flag-hungary_1f1ed-1f1fa.png" width="2%" />
+[Lehetetlen Mód](#Lehetetlen-Mód) <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/252/flag-hungary_1f1ed-1f1fa.png" width="2%" />
 
 
 
